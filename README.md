@@ -23,27 +23,27 @@ Explore the visual design implementation across the operational pages of the mar
 
 ### 🏠 1. Home Dashboard
 The entry interface replicating Apple's iconic layout hierarchy, featuring minimalist text arrangements and clean hero asset rows.
-![Home Page Mirror View](./appeareance-img-1)
+![Home Page Mirror View](./appeareance-img-1.png)
 
 ### ⌚ 2. Watches Section
 A clean grid layout dedicated to the Apple Watch ecosystem, emphasizing physical case aesthetics, custom straps, and technical tracking displays.
-![Watches Showcase Interface](./appeareance-img-2)
+![Watches Showcase Interface](./appeareance-img-2.png)
 
 ### 🎧 3. AirPods Audio Tier
 An immersive, multimedia-driven canvas handling dynamic multi-generation specifications and call-to-action triggers.
-![AirPods Presentation UI](./appeareance-img-3)
+![AirPods Presentation UI](./appeareance-img-3.png)
 
 ### 📺 4. TV & Home Dashboard
 A clean workspace layout grouping home theater items, precise regional pricing tables, and content ecosystem sliders.
-![TV and Home Ecosystem Page](./appeareance-img-4)
+![TV and Home Ecosystem Page](./appeareance-img-4.png)
 
 ### 🔌 5. Accessories Marketplace
 A targeted structural dashboard splitting MagSafe configurations and peripheral quick-search inputs symmetrically.
-![Product Accessories Layout](./appeareance-img-5)
+![Product Accessories Layout](./appeareance-img-5.png)
 
 ### 🛠️ 6. Official Customer Support
 An informative service index organizing core recovery grids alongside global help parameters and consumer notification lists.
-![Support and Assistance Center UI](./appeareance-img-6)
+![Support and Assistance Center UI](./appeareance-img-6.png)
 
 ---
 
